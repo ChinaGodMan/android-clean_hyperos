@@ -132,6 +132,7 @@ Gboard输入法： http://www.jxdown.com/soft/42906.html 、
 
 “com.miui.home #系统桌面”权限，关闭通讯录、电话权限。
 
+“com.xiaomi.bluetooth #小米蓝牙地图”权限，与系统蓝牙不是一回事，可能与生成蓝牙地图、物品找回有关。停用此app。
 
 18. 设置-指纹与密码-锁屏密码、录入指纹
 
@@ -188,7 +189,7 @@ adb shell pm uninstall --user 0 com.xiaomi.macro #自动连招
 
 adb shell pm uninstall --user 0 com.miui.com.miui.misightservice #系统质量检测（os3中有）
 
-adb shell pm uninstall --user 0 com.xiaomi.security.onetrack #似乎与用户数据收集有关
+adb shell pm uninstall --user 0 com.xiaomi.security.onetrack #用户数据收集与统计
 
 ```
 
