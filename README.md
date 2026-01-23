@@ -1,7 +1,7 @@
 
 ### 《小米手机系统优化对照表及说明》
 
-更新时间：2026-01-23，适配os1、os2、os3 
+更新时间：2026-01-23，适配os1、os2、os3 ，可能仅限国行版
 
 教程地址： https://github.com/fyonecon/android-clean_hyperos
 
@@ -25,7 +25,7 @@ com.miui.packageinstaller 应用包管理器不要卸载（重启卡米）；
 
 com.xiaomi.metoknlp 网络位置不要卸载（切换系统明暗主题时会卡米）;
 
-com.android.trace 程序追踪不要卸载（卡米）;
+com.android.trace 程序追踪不要卸载（可能卡米）;
 ```
 
 5️⃣ 尽量使用Win、Mac的ADB环境（下载Win或Mac的ADB工具：
