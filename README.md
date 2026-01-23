@@ -118,7 +118,7 @@ Gboard输入法： http://www.jxdown.com/soft/42906.html 、
 
 ）
 
-17. 用 DevCheck 设置，（可选）：
+17. 用 DevCheck 设置，（用此软件的目的是调出原生安卓设置。可选。）：
 
 “com.android.htmlviewer #HTML查看器”权限，关闭通讯录权限；
 
