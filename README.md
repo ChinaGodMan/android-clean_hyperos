@@ -213,6 +213,8 @@ adb shell pm uninstall --user 0 com.xiaomi.security.onetrack #用户数据收集
 > 默认关闭情况：消息、后台很及时，但是对内存和电池消耗可能过快。
 > 
 >手动打开+app里设置白名单：特别省内存，会杀死一些垃圾进程，但是消息会延迟，FCM消息即使加了白名单也会延迟，对微信无任何影响。
+> 
+> 如何打开快霸app：LibCheck--搜“duraspeed”--点击duraspeed的logo--点击“设置”--“打开”。
 
 
 ```
