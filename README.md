@@ -95,24 +95,27 @@ adb push ../android_backup/Files/铃声.zip /sdcard/Documents/
 adb push ../android_backup/Files/APK.zip /sdcard/Documents/
 ```
 
-（到文件里面解压 铃声.zip 到 铃声目录 ，APK.zip到本级目录； 设置铃声<电话铃声、通知铃声、关闭锁屏声>，设置触感大小， 
-安装apk
+（到文件里面解压 铃声.zip 到 铃声目录 ，APK.zip到本级目录； 设置铃声<电话铃声、通知铃声、关闭锁屏声>，设置触感大小，
 
-（
+16.1. 下载基础APK安装包：
 
-LibCheck： https://www.downkuai.com/android/147630.html 、
+安装第三方提供的APK：
+>
+>LibCheck： https://www.downkuai.com/android/147630.html 
+>
+>DevCheck： https://www.ddooo.com/softdown/224201.htm 
+>
+>Edge浏览器： http://www.jxdown.com/soft/20238.html 
+>
+>Gboard输入法： http://www.jxdown.com/soft/42906.html
+>
+>类原生桌面： https://lawnchair.app/ （需在该App设置里手动关闭软件禁用）
 
-DevCheck： https://www.ddooo.com/softdown/224201.htm 、
+也可以用本人提供的apk安装（在文件名中删掉.7z后缀就是.apk文件）：
+> https://github.com/fyonecon/android-clean_hyperos/releases
 
-Edge浏览器： http://www.jxdown.com/soft/20238.html 、
-
-Gboard输入法： http://www.jxdown.com/soft/42906.html 、
-
-微信输入法： https://z.weixin.qq.com/ 、
-
-微信： https://weixin.qq.com/ 、
-
-类原生桌面： https://lawnchair.app/ （需在该App设置里手动关闭软件禁用）
+免费VPN（300KB/s，下载有门槛）:
+> https://play.google.com/store/apps/details?id=free.key.vpn&hl=zh_CN
 
 ）
 
