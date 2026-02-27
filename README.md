@@ -3,9 +3,9 @@
 
 小米手机性价比很高，做“备用机、移动热点、充电宝、红外遥控器、NFC钥匙、NFC交通卡、听歌神器、小型任务服务器、导航神器”都很适合，但是默认的手机系统很难说好用。
 
-更新时间：2026-02-18，适配os1、os2、os3 ，可能仅限国行版。
+更新时间：2026-02-28，适配os1、os2、os3 ，可能仅限国行版。
 
-教程地址： https://github.com/fyonecon/android_clean_hyperos 。
+教程地址： https://github.com/fyonecon/android-clean_hyperos 。
 
 # 基础设置与安全说明：
 
